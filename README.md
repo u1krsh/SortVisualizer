@@ -1,4 +1,5 @@
 # Sort Visualizer
+<img width="1104" height="684" alt="Screen Recording 2026-07-14 185118" src="https://github.com/user-attachments/assets/ac4665a0-f6da-4d09-ad4f-a677ff56eb0a" />
 
 A real-time sorting algorithm visualizer with synchronized audio — watch and hear algorithms work their way through data, one comparison at a time.
 
